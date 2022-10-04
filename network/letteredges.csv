@@ -1,0 +1,7 @@
+﻿source,target,type,weight
+A,d,friend,1
+A,e,friend,1
+A,f,friend,1
+B,d,enemy,1
+B,f,enemy,1
+C,d,enemy,1

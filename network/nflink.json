@@ -1,0 +1,7157 @@
+[
+	{
+		"source": "Vito Acconci",
+		"target": "UbuWeb",
+		"weight": "1"
+	},
+	{
+		"source": "Kathy Acker",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Kathy Acker",
+		"target": "UbuWeb",
+		"weight": "1"
+	},
+	{
+		"source": "Diane Ackerman",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Diane Ackerman",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Helen Adam",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Etel Adnan",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Ai",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Ai",
+		"target": "Halpern_The New Poetry Anthology_1975",
+		"weight": "1"
+	},
+	{
+		"source": "Ai",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Rosa Alcalá",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Elizabeth Alexander",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Elizabeth Alexander",
+		"target": "Finch_A Formal Feeling Comes_1994",
+		"weight": "1"
+	},
+	{
+		"source": "Elizabeth Alexander",
+		"target": "Jarman_Rebel Angels_1996",
+		"weight": "1"
+	},
+	{
+		"source": "Will Alexander",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Sherman Alexie",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Agha Shahid Ali",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Dick Allen",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Nell Altizer",
+		"target": "Finch_A Formal Feeling Comes_1994",
+		"weight": "1"
+	},
+	{
+		"source": "Julia Alvarez",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Julia Alvarez",
+		"target": "Finch_A Formal Feeling Comes_1994",
+		"weight": "1"
+	},
+	{
+		"source": "Julia Alvarez",
+		"target": "Jarman_Rebel Angels_1996",
+		"weight": "1"
+	},
+	{
+		"source": "Kingsley Amis",
+		"target": "Hall_New Poets of England and America_1957",
+		"weight": "1"
+	},
+	{
+		"source": "A. R. Ammons",
+		"target": "McClatchy_Contemporary American Poetry_1990",
+		"weight": "1"
+	},
+	{
+		"source": "A. R. Ammons",
+		"target": "Vendler_Contemporary American Poetry_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Daniel Anderson",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Jon Anderson",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Jon Anderson",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Jon Anderson",
+		"target": "Halpern_The New Poetry Anthology_1975",
+		"weight": "1"
+	},
+	{
+		"source": "Jon Anderson",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Bruce Andrews",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "David Antin",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "David Antin",
+		"target": "UbuWeb",
+		"weight": "1"
+	},
+	{
+		"source": "Louis Aragon",
+		"target": "UbuWeb",
+		"weight": "1"
+	},
+	{
+		"source": "Rae Armantrout",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Rae Armantrout",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "John Ashbery",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "John Ashbery",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "John Ashbery",
+		"target": "UbuWeb",
+		"weight": "1"
+	},
+	{
+		"source": "John Ashbery",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "John Ashbery",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "John Ashbery",
+		"target": "McClatchy_Contemporary American Poetry_1990",
+		"weight": "1"
+	},
+	{
+		"source": "John Ashbery",
+		"target": "Vendler_Contemporary American Poetry_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Jimmy Santiago Baca",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "David Baker",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "David Baker",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "David Baker",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "David Baker",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Peter Balakian",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Mary Jo Bang",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Amiri Baraka (LeRoi Jones)",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Amiri Baraka (LeRoi Jones)",
+		"target": "UbuWeb",
+		"weight": "1"
+	},
+	{
+		"source": "Judith Barrington",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Judith Barrington",
+		"target": "Finch_A Formal Feeling Comes_1994",
+		"weight": "1"
+	},
+	{
+		"source": "Bruce Bawer",
+		"target": "Jarman_Rebel Angels_1996",
+		"weight": "1"
+	},
+	{
+		"source": "Dan Beachy-Quick",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Ray A. Young Bear",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Paul Beatty",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Joshua Beckman",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Samuel Beckett",
+		"target": "UbuWeb",
+		"weight": "1"
+	},
+	{
+		"source": "Cal Bedient",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Josh Bell",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Marvin Bell",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Marvin Bell",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Marvin Bell",
+		"target": "Halpern_The New Poetry Anthology_1975",
+		"weight": "1"
+	},
+	{
+		"source": "Marvin Bell",
+		"target": "McClatchy_Contemporary American Poetry_1990",
+		"weight": "1"
+	},
+	{
+		"source": "William Bell",
+		"target": "Hall_New Poets of England and America_1957",
+		"weight": "1"
+	},
+	{
+		"source": "Dodie Bellamy",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Martine Bellen",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Molly Bendall",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Michael Benedikt",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Michael Benedikt",
+		"target": "UbuWeb",
+		"weight": "1"
+	},
+	{
+		"source": "Michael Benedikt",
+		"target": "Halpern_The New Poetry Anthology_1975",
+		"weight": "1"
+	},
+	{
+		"source": "Bruce Bennett",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Louise Bennett",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "John Bensko",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Steve Benson",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Caroline Bergvall",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Caroline Bergvall",
+		"target": "UbuWeb",
+		"weight": "1"
+	},
+	{
+		"source": "Caroline Bergvall",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Bill Berkson",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Alan Bernheimer",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Charles Bernstein",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Charles Bernstein",
+		"target": "UbuWeb",
+		"weight": "1"
+	},
+	{
+		"source": "Charles Bernstein",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Ted Berrigan",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Ted Berrigan",
+		"target": "UbuWeb",
+		"weight": "1"
+	},
+	{
+		"source": "John Berryman",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "John Berryman",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "John Berryman",
+		"target": "McClatchy_Contemporary American Poetry_1990",
+		"weight": "1"
+	},
+	{
+		"source": "John Berryman",
+		"target": "Vendler_Contemporary American Poetry_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Mei-mei Berssenbrugge",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Mei-mei Berssenbrugge",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "James Bertram",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Jen Bervin",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Jen Bervin",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Frank Bidart",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Frank Bidart",
+		"target": "Halpern_The New Poetry Anthology_1975",
+		"weight": "1"
+	},
+	{
+		"source": "Frank Bidart",
+		"target": "McClatchy_Contemporary American Poetry_1990",
+		"weight": "1"
+	},
+	{
+		"source": "Frank Bidart",
+		"target": "Vendler_Contemporary American Poetry_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Elizabeth Bishop",
+		"target": "Ciardi_Mid-Century American Poets_1950",
+		"weight": "1"
+	},
+	{
+		"source": "Elizabeth Bishop",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Elizabeth Bishop",
+		"target": "Elliott_Fifteen Modern American Poets_1956",
+		"weight": "1"
+	},
+	{
+		"source": "Elizabeth Bishop",
+		"target": "McClatchy_Contemporary American Poetry_1990",
+		"weight": "1"
+	},
+	{
+		"source": "Elizabeth Bishop",
+		"target": "Vendler_Contemporary American Poetry_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Sherwin Bitsui",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Paul Blackburn",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Brian Blanchfield",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Robin Blaser",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Chana Bloch",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Ron Block",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Michael Blumenthal",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Michael Blumenthal",
+		"target": "Vendler_Contemporary American Poetry_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Robert Bly",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Robert Bly",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Robert Bly",
+		"target": "Hall_New Poets of England and America_1957",
+		"weight": "1"
+	},
+	{
+		"source": "Louise Bogan",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Christian Bök",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Christian Bök",
+		"target": "UbuWeb",
+		"weight": "1"
+	},
+	{
+		"source": "Christian Bök",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Eavan Boland",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Philip Booth",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Philip Booth",
+		"target": "Hall_New Poets of England and America_1957",
+		"weight": "1"
+	},
+	{
+		"source": "Daniel Borzutzky",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "David Bottoms",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Anne Boyer",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Edgar Bowers",
+		"target": "Hall_New Poets of England and America_1957",
+		"weight": "1"
+	},
+	{
+		"source": "Edgar Bowers",
+		"target": "McClatchy_Contemporary American Poetry_1990",
+		"weight": "1"
+	},
+	{
+		"source": "Kamau Brathwaite",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "George Brecht",
+		"target": "UbuWeb",
+		"weight": "1"
+	},
+	{
+		"source": "John Bricuth",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Van K. Brock",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Jim Brodey",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "William Bronk",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "William Bronk",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Gwendolyn Brooks",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Nicole Brossard",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Lee Ann Brown",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Lee Ann Brown",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Rosellen Brown",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Rosellen Brown",
+		"target": "Finch_A Formal Feeling Comes_1994",
+		"weight": "1"
+	},
+	{
+		"source": "Sterling A. Brown",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Laynie Browne",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Laynie Browne",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Michael Dennis Browne",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Michael Dennis Browne",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Michael Dennis Browne",
+		"target": "Halpern_The New Poetry Anthology_1975",
+		"weight": "1"
+	},
+	{
+		"source": "Michael Brownstein",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Debra Bruce",
+		"target": "Finch_A Formal Feeling Comes_1994",
+		"weight": "1"
+	},
+	{
+		"source": "Sharon Bryan",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Julia Budenz",
+		"target": "Finch_A Formal Feeling Comes_1994",
+		"weight": "1"
+	},
+	{
+		"source": "Charles Bukowski",
+		"target": "UbuWeb",
+		"weight": "1"
+	},
+	{
+		"source": "Michael Burkard",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Michael Burkard",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Stanley Burnshaw",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "William S. Burroughs",
+		"target": "UbuWeb",
+		"weight": "1"
+	},
+	{
+		"source": "David Buuck",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "John Cage",
+		"target": "UbuWeb",
+		"weight": "1"
+	},
+	{
+		"source": "Rafael Campo",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Rafael Campo",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Rafael Campo",
+		"target": "Jarman_Rebel Angels_1996",
+		"weight": "1"
+	},
+	{
+		"source": "Augusto de Campos",
+		"target": "UbuWeb",
+		"weight": "1"
+	},
+	{
+		"source": "Haroldo de Campos",
+		"target": "UbuWeb",
+		"weight": "1"
+	},
+	{
+		"source": "Melissa Cannon",
+		"target": "Finch_A Formal Feeling Comes_1994",
+		"weight": "1"
+	},
+	{
+		"source": "Henri Chopin",
+		"target": "UbuWeb",
+		"weight": "1"
+	},
+	{
+		"source": "Nick Carbó",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Henry Carlile",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Henry Carlile",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Julie Carr",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Julie Carr",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Hayden Carruth",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Hayden Carruth",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Turner Cassity",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Turner Cassity",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Charles Causley",
+		"target": "Hall_New Poets of England and America_1957",
+		"weight": "1"
+	},
+	{
+		"source": "Joseph Ceravolo",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Joseph Ceravolo",
+		"target": "UbuWeb",
+		"weight": "1"
+	},
+	{
+		"source": "Lorna Dee Cervantes",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Fred Chappell",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Maxine Chernoff",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Maxine Chernoff",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Kelly Cherry",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Kelly Cherry",
+		"target": "Finch_A Formal Feeling Comes_1994",
+		"weight": "1"
+	},
+	{
+		"source": "Abigail Child",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Marilyn Chin",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Nicholas Christopher",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "John Ciardi",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "John Ciardi",
+		"target": "Ciardi_Mid-Century American Poets_1950",
+		"weight": "1"
+	},
+	{
+		"source": "John Ciardi",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Sandra Cisneros",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Sandra Cisneros",
+		"target": "Finch_A Formal Feeling Comes_1994",
+		"weight": "1"
+	},
+	{
+		"source": "Amy Clampitt",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Amy Clampitt",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Amy Clampitt",
+		"target": "McClatchy_Contemporary American Poetry_1990",
+		"weight": "1"
+	},
+	{
+		"source": "Amy Clampitt",
+		"target": "Vendler_Contemporary American Poetry_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Cheryl Clarke",
+		"target": "Finch_A Formal Feeling Comes_1994",
+		"weight": "1"
+	},
+	{
+		"source": "Carlfriedrich Claus",
+		"target": "UbuWeb",
+		"weight": "1"
+	},
+	{
+		"source": "Lucille Clifton",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Lucille Clifton",
+		"target": "Halpern_The New Poetry Anthology_1975",
+		"weight": "1"
+	},
+	{
+		"source": "Claude Closky",
+		"target": "UbuWeb",
+		"weight": "1"
+	},
+	{
+		"source": "Joshua Clover",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Joshua Clover",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Bob Cobbing",
+		"target": "UbuWeb",
+		"weight": "1"
+	},
+	{
+		"source": "Henri Cole",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Norma Cole",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Wanda Coleman",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Wanda Coleman",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Martha Collins",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Martha Collins",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Conyus",
+		"target": "Halpern_The New Poetry Anthology_1975",
+		"weight": "1"
+	},
+	{
+		"source": "Peter Cooley",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Peter Cooley",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Peter Cooley",
+		"target": "Halpern_The New Poetry Anthology_1975",
+		"weight": "1"
+	},
+	{
+		"source": "Peter Cooley",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Clark Coolidge",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Clark Coolidge",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Dennis Cooper",
+		"target": "UbuWeb",
+		"weight": "1"
+	},
+	{
+		"source": "Jane Cooper",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Jane Cooper",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "William Corbett",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Martin Corless-Smith",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Cid Corman",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Cid Corman",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Alfred Corn",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Alfred Corn",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Alfred Corn",
+		"target": "McClatchy_Contemporary American Poetry_1990",
+		"weight": "1"
+	},
+	{
+		"source": "Alfred Corn",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Gregory Corso",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Gregory Corso",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Jayne Cortez",
+		"target": "UbuWeb",
+		"weight": "1"
+	},
+	{
+		"source": "Gerald Costanzo",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Gerald Costanzo",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Henri Coulette",
+		"target": "Hall_New Poets of England and America_1957",
+		"weight": "1"
+	},
+	{
+		"source": "Hart Crane",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Robert Creeley",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Robert Creeley",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Robert Creeley",
+		"target": "UbuWeb",
+		"weight": "1"
+	},
+	{
+		"source": "Robert Creeley",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Robert Creeley",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Robert Creeley",
+		"target": "McClatchy_Contemporary American Poetry_1990",
+		"weight": "1"
+	},
+	{
+		"source": "Victor Hernández Cruz",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "J. V. Cunningham",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "J. V. Cunningham",
+		"target": "McClatchy_Contemporary American Poetry_1990",
+		"weight": "1"
+	},
+	{
+		"source": "Philip Dacey",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Philip Dacey",
+		"target": "Halpern_The New Poetry Anthology_1975",
+		"weight": "1"
+	},
+	{
+		"source": "Beverly Dahlen",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Beverly Dahlen",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Maria Damon",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Tina Darragh",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Glover David",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Michael Davidson",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Donald Davie",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Donald Davie",
+		"target": "Hall_New Poets of England and America_1957",
+		"weight": "1"
+	},
+	{
+		"source": "Alan Davies",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Catherine Davis",
+		"target": "Finch_A Formal Feeling Comes_1994",
+		"weight": "1"
+	},
+	{
+		"source": "Catherine Davis",
+		"target": "Hall_New Poets of England and America_1957",
+		"weight": "1"
+	},
+	{
+		"source": "Jordan Davis",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Lydia Davis",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Lydia Davis",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Olena Kalytiak Davis",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Peter Davison",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Peter Davison",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Jean Day",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Walter De Maria",
+		"target": "UbuWeb",
+		"weight": "1"
+	},
+	{
+		"source": "Mónica de la Torre",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Mónica de la Torre",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Edwin Denby",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Jeff Derksen",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Toi Derricotte",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Babette Deutsch",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Thomas Devaney",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Christopher Dewdney",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "W. S. Di Piero",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "W. S. Di Piero",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "James Dickey",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "James Dickey",
+		"target": "McClatchy_Contemporary American Poetry_1990",
+		"weight": "1"
+	},
+	{
+		"source": "James Dickey",
+		"target": "Vendler_Contemporary American Poetry_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Emily Dickinson",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Linh Dinh",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Ray DiPalma",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Thomas M. Disch",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Thomas M. Disch",
+		"target": "Jarman_Rebel Angels_1996",
+		"weight": "1"
+	},
+	{
+		"source": "Marcel Duchamp",
+		"target": "UbuWeb",
+		"weight": "1"
+	},
+	{
+		"source": "Stephen Dobyns",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Stephen Dobyns",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Owen Dodson",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Timothy Donnelly",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Stacy Doris",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Edward Dorn",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Edward Dorn",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Edward Dorn",
+		"target": "UbuWeb",
+		"weight": "1"
+	},
+	{
+		"source": "Mark Doty",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Mark Doty",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Keith Douglas",
+		"target": "Hall_New Poets of England and America_1957",
+		"weight": "1"
+	},
+	{
+		"source": "Rita Dove",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Rita Dove",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Rita Dove",
+		"target": "Finch_A Formal Feeling Comes_1994",
+		"weight": "1"
+	},
+	{
+		"source": "Rita Dove",
+		"target": "Halpern_The New Poetry Anthology_1975",
+		"weight": "1"
+	},
+	{
+		"source": "Rita Dove",
+		"target": "McClatchy_Contemporary American Poetry_1990",
+		"weight": "1"
+	},
+	{
+		"source": "Rita Dove",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Rita Dove",
+		"target": "Vendler_Contemporary American Poetry_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Philip Dow",
+		"target": "Halpern_The New Poetry Anthology_1975",
+		"weight": "1"
+	},
+	{
+		"source": "Suzanne J. Doyle",
+		"target": "Finch_A Formal Feeling Comes_1994",
+		"weight": "1"
+	},
+	{
+		"source": "Lynne Dreyer",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Johanna Drucker",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Norman Dubie",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Norman Dubie",
+		"target": "Halpern_The New Poetry Anthology_1975",
+		"weight": "1"
+	},
+	{
+		"source": "Norman Dubie",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Alan Dugan",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Alan Dugan",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Denise Duhamel",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Robert Duncan",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Robert Duncan",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Robert Duncan",
+		"target": "McClatchy_Contemporary American Poetry_1990",
+		"weight": "1"
+	},
+	{
+		"source": "Stephen Dunn",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Stephen Dunn",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Stephen Dunn",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Stephen Dunn",
+		"target": "Halpern_The New Poetry Anthology_1975",
+		"weight": "1"
+	},
+	{
+		"source": "Rachel Blau DuPlessis",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Craig Dworkin",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Craig Dworkin",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Bob Dylan",
+		"target": "UbuWeb",
+		"weight": "1"
+	},
+	{
+		"source": "Richard Eberhart",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Richard Eberhart",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Richard Eberhart",
+		"target": "Ciardi_Mid-Century American Poets_1950",
+		"weight": "1"
+	},
+	{
+		"source": "Richard Eberhart",
+		"target": "Elliott_Fifteen Modern American Poets_1956",
+		"weight": "1"
+	},
+	{
+		"source": "Russell Edson",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Russell Edson",
+		"target": "Halpern_The New Poetry Anthology_1975",
+		"weight": "1"
+	},
+	{
+		"source": "Gretel Ehrlich",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Gretel Ehrlich",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Larry Eigner",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Thomas Sayers Ellis",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Thomas Sayers Ellis",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Kenward Elmslie",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Laura Elrick",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Lynn Emanuel",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Lynn Emanuel",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Lynn Emanuel",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "John Engels",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Daniel Mark Epstein",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Elaine Equi",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Clayton Eshleman",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Clayton Eshleman",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Martín Espada",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Rhina P. Espaillat",
+		"target": "Finch_A Formal Feeling Comes_1994",
+		"weight": "1"
+	},
+	{
+		"source": "George Evans",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Peter Everwine",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Dan Farrell",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Julie Fay",
+		"target": "Finch_A Formal Feeling Comes_1994",
+		"weight": "1"
+	},
+	{
+		"source": "Frederick Feirstein",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Frederick Feirstein",
+		"target": "Jarman_Rebel Angels_1996",
+		"weight": "1"
+	},
+	{
+		"source": "Irving Feldman",
+		"target": "McClatchy_Contemporary American Poetry_1990",
+		"weight": "1"
+	},
+	{
+		"source": "Susan Feldman",
+		"target": "Halpern_The New Poetry Anthology_1975",
+		"weight": "1"
+	},
+	{
+		"source": "Lawrence Ferlinghetti",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Lawrence Ferlinghetti",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Edward Field",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Edward Field",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Annie Finch",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Annie Finch",
+		"target": "Finch_A Formal Feeling Comes_1994",
+		"weight": "1"
+	},
+	{
+		"source": "Donald Finkel",
+		"target": "Hall_New Poets of England and America_1957",
+		"weight": "1"
+	},
+	{
+		"source": "Robert Fitterman",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Robert Fitterman",
+		"target": "UbuWeb",
+		"weight": "1"
+	},
+	{
+		"source": "Nick Flynn",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Calvin Forbes",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Carolyn Forché",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Carolyn Forché",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Carolyn Forché",
+		"target": "Halpern_The New Poetry Anthology_1975",
+		"weight": "1"
+	},
+	{
+		"source": "Carolyn Forché",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Kathleen Fraser",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Kathleen Fraser",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Kathleen Fraser",
+		"target": "Halpern_The New Poetry Anthology_1975",
+		"weight": "1"
+	},
+	{
+		"source": "Benjamin Friedlander",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Carol Frost",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Joanna Fuhrman",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Heather Fuller",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Alice Fulton",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Alice Fulton",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Christopher Funkhouser",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Tess Gallagher",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Tess Gallagher",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Tess Gallagher",
+		"target": "Halpern_The New Poetry Anthology_1975",
+		"weight": "1"
+	},
+	{
+		"source": "Tess Gallagher",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "James Galvin",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Forrest Gander",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Forrest Gander",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Suzanne Gardinier",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Drew Gardner",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Isabella Gardner",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Ilse Garnier",
+		"target": "UbuWeb",
+		"weight": "1"
+	},
+	{
+		"source": "Pierre Garnier",
+		"target": "UbuWeb",
+		"weight": "1"
+	},
+	{
+		"source": "George Garrett",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "George Garrett",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "George Garrett",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Jean Garrigue",
+		"target": "McClatchy_Contemporary American Poetry_1990",
+		"weight": "1"
+	},
+	{
+		"source": "Joan Austin Geier",
+		"target": "Finch_A Formal Feeling Comes_1994",
+		"weight": "1"
+	},
+	{
+		"source": "Susan Gevirtz",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Reginald Gibbons",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Reginald Gibbons",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Margaret Gibson",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Lawrence Giffin",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Christopher Gilbert",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Gary Gildner",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Gary Gildner",
+		"target": "Halpern_The New Poetry Anthology_1975",
+		"weight": "1"
+	},
+	{
+		"source": "Carmen Giménez Smith",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Madeline Gins",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Allen Ginsberg",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Allen Ginsberg",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Allen Ginsberg",
+		"target": "UbuWeb",
+		"weight": "1"
+	},
+	{
+		"source": "Allen Ginsberg",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Allen Ginsberg",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Allen Ginsberg",
+		"target": "McClatchy_Contemporary American Poetry_1990",
+		"weight": "1"
+	},
+	{
+		"source": "Allen Ginsberg",
+		"target": "Vendler_Contemporary American Poetry_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Dana Gioia",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Dana Gioia",
+		"target": "Jarman_Rebel Angels_1996",
+		"weight": "1"
+	},
+	{
+		"source": "John Giorno",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "John Giorno",
+		"target": "UbuWeb",
+		"weight": "1"
+	},
+	{
+		"source": "Nikki Giovanni",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Nikki Giovanni",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "C. S. Giscombe",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "C. S. Giscombe",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Peter Gizzi",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Louise Glück",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Louise Glück",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Louise Glück",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Louise Glück",
+		"target": "Halpern_The New Poetry Anthology_1975",
+		"weight": "1"
+	},
+	{
+		"source": "Louise Glück",
+		"target": "McClatchy_Contemporary American Poetry_1990",
+		"weight": "1"
+	},
+	{
+		"source": "Louise Glück",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Louise Glück",
+		"target": "Vendler_Contemporary American Poetry_1985",
+		"weight": "1"
+	},
+	{
+		"source": "John Godfrey",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Patricia Goedicke",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Albert Goldbarth",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Albert Goldbarth",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Albert Goldbarth",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Albert Goldbarth",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Albert Goldbarth",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Albert Goldbarth",
+		"target": "Vendler_Contemporary American Poetry_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Judith Goldman",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Judith Goldman",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Kenneth Goldsmith",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Kenneth Goldsmith",
+		"target": "UbuWeb",
+		"weight": "1"
+	},
+	{
+		"source": "Kenneth Goldsmith",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Eugen Gomringer",
+		"target": "UbuWeb",
+		"weight": "1"
+	},
+	{
+		"source": "Rigoberto González",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Nada Gordon",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Sarah Gorham",
+		"target": "Finch_A Formal Feeling Comes_1994",
+		"weight": "1"
+	},
+	{
+		"source": "Michael Gottlieb",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Dan Graham",
+		"target": "UbuWeb",
+		"weight": "1"
+	},
+	{
+		"source": "Jorie Graham",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Jorie Graham",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Jorie Graham",
+		"target": "McClatchy_Contemporary American Poetry_1990",
+		"weight": "1"
+	},
+	{
+		"source": "Jorie Graham",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Jorie Graham",
+		"target": "Vendler_Contemporary American Poetry_1985",
+		"weight": "1"
+	},
+	{
+		"source": "K. Lorraine Graham",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "W. S. Graham",
+		"target": "Hall_New Poets of England and America_1957",
+		"weight": "1"
+	},
+	{
+		"source": "Barbara L. Greenberg",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Ted Greenwald",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Jane Greer",
+		"target": "Finch_A Formal Feeling Comes_1994",
+		"weight": "1"
+	},
+	{
+		"source": "Debora Greger",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Linda Gregg",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Linda Gregg",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Linda Gregg",
+		"target": "Halpern_The New Poetry Anthology_1975",
+		"weight": "1"
+	},
+	{
+		"source": "Linda Gregg",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Robert Grenier",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Emily Grosholz",
+		"target": "Finch_A Formal Feeling Comes_1994",
+		"weight": "1"
+	},
+	{
+		"source": "Emily Grosholz",
+		"target": "Jarman_Rebel Angels_1996",
+		"weight": "1"
+	},
+	{
+		"source": "Barbara Guest",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Charles Gullans",
+		"target": "Hall_New Poets of England and America_1957",
+		"weight": "1"
+	},
+	{
+		"source": "Thom Gunn",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Thom Gunn",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Thom Gunn",
+		"target": "Hall_New Poets of England and America_1957",
+		"weight": "1"
+	},
+	{
+		"source": "R. S. Gwynn",
+		"target": "Jarman_Rebel Angels_1996",
+		"weight": "1"
+	},
+	{
+		"source": "Brion Gysin",
+		"target": "UbuWeb",
+		"weight": "1"
+	},
+	{
+		"source": "H.D.",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Marilyn Hacker",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Marilyn Hacker",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Marilyn Hacker",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Marilyn Hacker",
+		"target": "Finch_A Formal Feeling Comes_1994",
+		"weight": "1"
+	},
+	{
+		"source": "Marilyn Hacker",
+		"target": "Halpern_The New Poetry Anthology_1975",
+		"weight": "1"
+	},
+	{
+		"source": "Marilyn Hacker",
+		"target": "Jarman_Rebel Angels_1996",
+		"weight": "1"
+	},
+	{
+		"source": "Marilyn Hacker",
+		"target": "McClatchy_Contemporary American Poetry_1990",
+		"weight": "1"
+	},
+	{
+		"source": "Marilyn Hacker",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Rachel Hadas",
+		"target": "Finch_A Formal Feeling Comes_1994",
+		"weight": "1"
+	},
+	{
+		"source": "Rachel Hadas",
+		"target": "Jarman_Rebel Angels_1996",
+		"weight": "1"
+	},
+	{
+		"source": "Kimiko Hahn",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Donald Hall",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Donald Hall",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Donald Hall",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Donald Hall",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Donald Hall",
+		"target": "Hall_New Poets of England and America_1957",
+		"weight": "1"
+	},
+	{
+		"source": "Mark Halperin",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Mark Halperin",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Daniel Halpern",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Daniel Halpern",
+		"target": "Halpern_The New Poetry Anthology_1975",
+		"weight": "1"
+	},
+	{
+		"source": "Daniel Halpern",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Michael Hamburger",
+		"target": "Hall_New Poets of England and America_1957",
+		"weight": "1"
+	},
+	{
+		"source": "Al Hansen",
+		"target": "UbuWeb",
+		"weight": "1"
+	},
+	{
+		"source": "Joy Harjo",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Edward Harkness",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Michael S. Harper",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Michael S. Harper",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Michael S. Harper",
+		"target": "Halpern_The New Poetry Anthology_1975",
+		"weight": "1"
+	},
+	{
+		"source": "Michael S. Harper",
+		"target": "McClatchy_Contemporary American Poetry_1990",
+		"weight": "1"
+	},
+	{
+		"source": "Michael S. Harper",
+		"target": "Vendler_Contemporary American Poetry_1985",
+		"weight": "1"
+	},
+	{
+		"source": "William J. Harris",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Jim Harrison",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Jim Harrison",
+		"target": "Halpern_The New Poetry Anthology_1975",
+		"weight": "1"
+	},
+	{
+		"source": "Elizabeth B. Harrod",
+		"target": "Hall_New Poets of England and America_1957",
+		"weight": "1"
+	},
+	{
+		"source": "Carla Harryman",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Charles O. Hartman",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Matthea Harvey",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Robert Hass",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Robert Hass",
+		"target": "Halpern_The New Poetry Anthology_1975",
+		"weight": "1"
+	},
+	{
+		"source": "Robert Hass",
+		"target": "McClatchy_Contemporary American Poetry_1990",
+		"weight": "1"
+	},
+	{
+		"source": "Robert Hass",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "William Hathaway",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "William Hathaway",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Vaclav Havel",
+		"target": "UbuWeb",
+		"weight": "1"
+	},
+	{
+		"source": "Robert Hayden",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Robert Hayden",
+		"target": "McClatchy_Contemporary American Poetry_1990",
+		"weight": "1"
+	},
+	{
+		"source": "Robert Hayden",
+		"target": "Vendler_Contemporary American Poetry_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Terrance Hayes",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Terrance Hayes",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Seamus Heaney",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Seamus Heaney",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "John Heath-Stubbs",
+		"target": "Hall_New Poets of England and America_1957",
+		"weight": "1"
+	},
+	{
+		"source": "Anthony Hecht",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Anthony Hecht",
+		"target": "Hall_New Poets of England and America_1957",
+		"weight": "1"
+	},
+	{
+		"source": "Anthony Hecht",
+		"target": "McClatchy_Contemporary American Poetry_1990",
+		"weight": "1"
+	},
+	{
+		"source": "Allison Adelle Hedge Coke",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Michael Heffernan",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Lyn Hejinian",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Lyn Hejinian",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Judith Hemschemeyer",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "William Heyen",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "William Heyen",
+		"target": "Halpern_The New Poetry Anthology_1975",
+		"weight": "1"
+	},
+	{
+		"source": "William Heyen",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Bob Hicok",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Dick Higgins",
+		"target": "UbuWeb",
+		"weight": "1"
+	},
+	{
+		"source": "Mitch Highfill",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Geoffrey Hill",
+		"target": "Hall_New Poets of England and America_1957",
+		"weight": "1"
+	},
+	{
+		"source": "Brenda Hillman",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Brenda Hillman",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Edward Hirsch",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Edward Hirsch",
+		"target": "McClatchy_Contemporary American Poetry_1990",
+		"weight": "1"
+	},
+	{
+		"source": "Edward Hirsch",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Åke Hodell",
+		"target": "UbuWeb",
+		"weight": "1"
+	},
+	{
+		"source": "Daniel Hoffman",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Daniel Hoffman",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Linda Hogan",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Jonathan Holden",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "John Hollander",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "John Hollander",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "John Hollander",
+		"target": "Hall_New Poets of England and America_1957",
+		"weight": "1"
+	},
+	{
+		"source": "John Hollander",
+		"target": "McClatchy_Contemporary American Poetry_1990",
+		"weight": "1"
+	},
+	{
+		"source": "Anselm Hollo",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "John Holloway",
+		"target": "Hall_New Poets of England and America_1957",
+		"weight": "1"
+	},
+	{
+		"source": "John Holmes",
+		"target": "Ciardi_Mid-Century American Poets_1950",
+		"weight": "1"
+	},
+	{
+		"source": "Cathy Park Hong",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Garrett Kaoru Hongo",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Garrett Kaoru Hongo",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Garrett Kaoru Hongo",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Paul Hoover",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "David Brendan Hopes",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Ben Howard",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Richard Howard",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Richard Howard",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Richard Howard",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Richard Howard",
+		"target": "McClatchy_Contemporary American Poetry_1990",
+		"weight": "1"
+	},
+	{
+		"source": "Fanny Howe",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Fanny Howe",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Susan Howe",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Barbara Howes",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Andrew Hudgins",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Andrew Hudgins",
+		"target": "Jarman_Rebel Angels_1996",
+		"weight": "1"
+	},
+	{
+		"source": "Yunte Huang",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Robert Huff",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Langston Hughes",
+		"target": "Vendler_Contemporary American Poetry_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Richard Hugo",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Richard Hugo",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Richard Hugo",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Richard Hugo",
+		"target": "McClatchy_Contemporary American Poetry_1990",
+		"weight": "1"
+	},
+	{
+		"source": "Christine Hume",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "T. R. Hummer",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "T. R. Hummer",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "T. R. Hummer",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Erica Hunt",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "David Ignatow",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "David Ignatow",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Lawson Fusao Inada",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Lawson Fusao Inada",
+		"target": "Halpern_The New Poetry Anthology_1975",
+		"weight": "1"
+	},
+	{
+		"source": "P. Inman (Peter Inman)",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Kenneth Irby",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Josephine Jacobsen",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Josephine Jacobsen",
+		"target": "Finch_A Formal Feeling Comes_1994",
+		"weight": "1"
+	},
+	{
+		"source": "Peter Jaeger",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Elizabeth James",
+		"target": "UbuWeb",
+		"weight": "1"
+	},
+	{
+		"source": "Thomas James",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Thomas James",
+		"target": "Halpern_The New Poetry Anthology_1975",
+		"weight": "1"
+	},
+	{
+		"source": "Ernst Jandl",
+		"target": "UbuWeb",
+		"weight": "1"
+	},
+	{
+		"source": "Mark Jarman",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Lisa Jarnot",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Randall Jarrell",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Randall Jarrell",
+		"target": "Ciardi_Mid-Century American Poets_1950",
+		"weight": "1"
+	},
+	{
+		"source": "Randall Jarrell",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Randall Jarrell",
+		"target": "Elliott_Fifteen Modern American Poets_1956",
+		"weight": "1"
+	},
+	{
+		"source": "Randall Jarrell",
+		"target": "McClatchy_Contemporary American Poetry_1990",
+		"weight": "1"
+	},
+	{
+		"source": "Randall Jarrell",
+		"target": "Vendler_Contemporary American Poetry_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Elizabeth Jennings",
+		"target": "Hall_New Poets of England and America_1957",
+		"weight": "1"
+	},
+	{
+		"source": "Laura Jensen",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Laura Jensen",
+		"target": "Halpern_The New Poetry Anthology_1975",
+		"weight": "1"
+	},
+	{
+		"source": "Judson Jerome",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Denis Johnson",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Denis Johnson",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Denis Johnson",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Don Johnson",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "James Weldon Johnson",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "\"Raymond Edward \"\"Ray\"\" Johnson\"",
+		"target": "UbuWeb",
+		"weight": "1"
+	},
+	{
+		"source": "Ronald Johnson",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Rodney Jones",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Rodney Jones",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Rodney Jones",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Erica Jong",
+		"target": "Halpern_The New Poetry Anthology_1975",
+		"weight": "1"
+	},
+	{
+		"source": "Erica Jong",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "A. Van Jordan",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "June Jordan",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "June Jordan",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Andrew Joron",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Andrew Joron",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Allison Joseph",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Donald Justice",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Donald Justice",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Donald Justice",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Donald Justice",
+		"target": "Hall_New Poets of England and America_1957",
+		"weight": "1"
+	},
+	{
+		"source": "Donald Justice",
+		"target": "McClatchy_Contemporary American Poetry_1990",
+		"weight": "1"
+	},
+	{
+		"source": "Ilya Kaminsky",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Bhanu Kapil",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Bhanu Kapil",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Laura Kasischke",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Joy Katz",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Ellen de Young Kay",
+		"target": "Hall_New Poets of England and America_1957",
+		"weight": "1"
+	},
+	{
+		"source": "Richard Katrovas",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Richard Katrovas",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Claudia Keelan",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Greg Keeler",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Weldon Kees",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Lenore Keeshit-Tobias",
+		"target": "Finch_A Formal Feeling Comes_1994",
+		"weight": "1"
+	},
+	{
+		"source": "Robert Kelly",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Dolores Kendrick",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Dolores Kendrick",
+		"target": "Finch_A Formal Feeling Comes_1994",
+		"weight": "1"
+	},
+	{
+		"source": "X. J. Kennedy",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "X. J. Kennedy",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "X. J. Kennedy",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Jane Kenyon",
+		"target": "Finch_A Formal Feeling Comes_1994",
+		"weight": "1"
+	},
+	{
+		"source": "Jack Kerouac",
+		"target": "UbuWeb",
+		"weight": "1"
+	},
+	{
+		"source": "Faye Kicknosway",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Myung Mi Kim",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Suji Kwock Kim",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Galway Kinnell",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Galway Kinnell",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Galway Kinnell",
+		"target": "McClatchy_Contemporary American Poetry_1990",
+		"weight": "1"
+	},
+	{
+		"source": "Thomas Kinsella",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Mary Kinzie",
+		"target": "Finch_A Formal Feeling Comes_1994",
+		"weight": "1"
+	},
+	{
+		"source": "Carolyn Kizer",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Carolyn Kizer",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Carolyn Kizer",
+		"target": "Finch_A Formal Feeling Comes_1994",
+		"weight": "1"
+	},
+	{
+		"source": "Carolyn Kizer",
+		"target": "McClatchy_Contemporary American Poetry_1990",
+		"weight": "1"
+	},
+	{
+		"source": "Peter Klappert",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Peter Klappert",
+		"target": "Halpern_The New Poetry Anthology_1975",
+		"weight": "1"
+	},
+	{
+		"source": "August Kleinzahler",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Etheridge Knight",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Etheridge Knight",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Etheridge Knight",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Bill Knott (Saint Geraud)",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Bill Knott (Saint Geraud)",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Christopher Knowles",
+		"target": "UbuWeb",
+		"weight": "1"
+	},
+	{
+		"source": "Caroline Knox",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Kenneth Koch",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Kenneth Koch",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Kenneth Koch",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Rodney Koeneke",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Phyllis Koestenbaum",
+		"target": "Finch_A Formal Feeling Comes_1994",
+		"weight": "1"
+	},
+	{
+		"source": "Sybil Kollar",
+		"target": "Finch_A Formal Feeling Comes_1994",
+		"weight": "1"
+	},
+	{
+		"source": "Yusef Komunyakaa",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Yusef Komunyakaa",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Yusef Komunyakaa",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Yusef Komunyakaa",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Ted Kooser",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Ted Kooser",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Aaron Kramer",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Judith Kroll",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Judith Kroll",
+		"target": "Halpern_The New Poetry Anthology_1975",
+		"weight": "1"
+	},
+	{
+		"source": "Maxine Kumin",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Maxine Kumin",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Maxine Kumin",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Maxine Kumin",
+		"target": "Finch_A Formal Feeling Comes_1994",
+		"weight": "1"
+	},
+	{
+		"source": "Stanley Kunitz",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Greg Kuzma",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Greg Kuzma",
+		"target": "Halpern_The New Poetry Anthology_1975",
+		"weight": "1"
+	},
+	{
+		"source": "Joanne Kyger",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Melvin Walker La Follette",
+		"target": "Hall_New Poets of England and America_1957",
+		"weight": "1"
+	},
+	{
+		"source": "Joan LaBombard",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Philip Lamantia",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Joseph Langland",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Joseph Langland",
+		"target": "Hall_New Poets of England and America_1957",
+		"weight": "1"
+	},
+	{
+		"source": "Philip Larkin",
+		"target": "Hall_New Poets of England and America_1957",
+		"weight": "1"
+	},
+	{
+		"source": "Paul Lake",
+		"target": "Jarman_Rebel Angels_1996",
+		"weight": "1"
+	},
+	{
+		"source": "James Laughlin",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Ann Lauterbach",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Ann Lauterbach",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Robert Layzer",
+		"target": "Hall_New Poets of England and America_1957",
+		"weight": "1"
+	},
+	{
+		"source": "Sydney Lea",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Sydney Lea",
+		"target": "Jarman_Rebel Angels_1996",
+		"weight": "1"
+	},
+	{
+		"source": "Sydney Lea",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Joseph Lease",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Al Lee",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Al Lee",
+		"target": "Halpern_The New Poetry Anthology_1975",
+		"weight": "1"
+	},
+	{
+		"source": "Li-Young Lee",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Barbara Lefcowitz",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "David Lehman",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "David Lehman",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Leevi Lehto",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Brad Leithauser",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Brad Leithauser",
+		"target": "Jarman_Rebel Angels_1996",
+		"weight": "1"
+	},
+	{
+		"source": "Brad Leithauser",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Ben Lerner",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Ben Lerner",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Rika Lesser",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Rika Lesser",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Denise Levertov",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Denise Levertov",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Denise Levertov",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Denise Levertov",
+		"target": "McClatchy_Contemporary American Poetry_1990",
+		"weight": "1"
+	},
+	{
+		"source": "Dana Levin",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Dana Levin",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Phillis Levin",
+		"target": "Finch_A Formal Feeling Comes_1994",
+		"weight": "1"
+	},
+	{
+		"source": "Phillis Levin",
+		"target": "Jarman_Rebel Angels_1996",
+		"weight": "1"
+	},
+	{
+		"source": "Philip Levine",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Philip Levine",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Philip Levine",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Philip Levine",
+		"target": "McClatchy_Contemporary American Poetry_1990",
+		"weight": "1"
+	},
+	{
+		"source": "Fred Levinson",
+		"target": "Halpern_The New Poetry Anthology_1975",
+		"weight": "1"
+	},
+	{
+		"source": "Larry Levis",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Larry Levis",
+		"target": "Halpern_The New Poetry Anthology_1975",
+		"weight": "1"
+	},
+	{
+		"source": "Larry Levis",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Janet Lewis",
+		"target": "Finch_A Formal Feeling Comes_1994",
+		"weight": "1"
+	},
+	{
+		"source": "Elizabeth Libbey",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Elizabeth Libbey",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Elizabeth Libbey",
+		"target": "Halpern_The New Poetry Anthology_1975",
+		"weight": "1"
+	},
+	{
+		"source": "Tan Lin",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Tan Lin",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Timothy Liu",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "John Logan",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "John Logan",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "William Logan",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "William Logan",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "William Logan",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Arrigo Lora-Totino",
+		"target": "UbuWeb",
+		"weight": "1"
+	},
+	{
+		"source": "Audre Lorde",
+		"target": "McClatchy_Contemporary American Poetry_1990",
+		"weight": "1"
+	},
+	{
+		"source": "Robert Lowell",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Robert Lowell",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Robert Lowell",
+		"target": "Ciardi_Mid-Century American Poets_1950",
+		"weight": "1"
+	},
+	{
+		"source": "Robert Lowell",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Robert Lowell",
+		"target": "Elliott_Fifteen Modern American Poets_1956",
+		"weight": "1"
+	},
+	{
+		"source": "Robert Lowell",
+		"target": "Hall_New Poets of England and America_1957",
+		"weight": "1"
+	},
+	{
+		"source": "Robert Lowell",
+		"target": "McClatchy_Contemporary American Poetry_1990",
+		"weight": "1"
+	},
+	{
+		"source": "Robert Lowell",
+		"target": "Vendler_Contemporary American Poetry_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Susan Ludvigson",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Thomas Lux",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Thomas Lux",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Thomas Lux",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Thomas Lux",
+		"target": "Halpern_The New Poetry Anthology_1975",
+		"weight": "1"
+	},
+	{
+		"source": "Karen Mac Cormack",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Jackson Mac Low",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Jackson Mac Low",
+		"target": "UbuWeb",
+		"weight": "1"
+	},
+	{
+		"source": "Cynthia MacDonald",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Cynthia MacDonald",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Nathaniel Mackey",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Nathaniel Mackey",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Michael Magee",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Gerald Malanga",
+		"target": "UbuWeb",
+		"weight": "1"
+	},
+	{
+		"source": "Donato Mancini",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Tom Mandel",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Maurice Manning",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Paul Mariani",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Charles Martin",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Charles Martin",
+		"target": "Jarman_Rebel Angels_1996",
+		"weight": "1"
+	},
+	{
+		"source": "Valerie Martínez",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "David Mason",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "William Matchett",
+		"target": "Hall_New Poets of England and America_1957",
+		"weight": "1"
+	},
+	{
+		"source": "Harry Mathews",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Cleopatra Mathis",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Cleopatra Mathis",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Khaled Mattawa",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "William Matthews",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "William Matthews",
+		"target": "Halpern_The New Poetry Anthology_1975",
+		"weight": "1"
+	},
+	{
+		"source": "William Matthews",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Bernadette Mayer",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Bernadette Mayer",
+		"target": "UbuWeb",
+		"weight": "1"
+	},
+	{
+		"source": "Hansjörg Mayer",
+		"target": "UbuWeb",
+		"weight": "1"
+	},
+	{
+		"source": "E. L. Mayo",
+		"target": "Ciardi_Mid-Century American Poets_1950",
+		"weight": "1"
+	},
+	{
+		"source": "Mekeel McBride",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Mekeel McBride",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Angela McCabe",
+		"target": "Halpern_The New Poetry Anthology_1975",
+		"weight": "1"
+	},
+	{
+		"source": "Steve McCaffery",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Steve McCaffery",
+		"target": "UbuWeb",
+		"weight": "1"
+	},
+	{
+		"source": "Michael McClure",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Howard McCord",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "David McElroy",
+		"target": "Halpern_The New Poetry Anthology_1975",
+		"weight": "1"
+	},
+	{
+		"source": "Thomas McGrath",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Thomas McGrath",
+		"target": "Hall_New Poets of England and America_1957",
+		"weight": "1"
+	},
+	{
+		"source": "Medbh McGuckian",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Heather McHugh",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Heather McHugh",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Heather McHugh",
+		"target": "Halpern_The New Poetry Anthology_1975",
+		"weight": "1"
+	},
+	{
+		"source": "Heather McHugh",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Stephen McLaughlin",
+		"target": "UbuWeb",
+		"weight": "1"
+	},
+	{
+		"source": "James McMichael",
+		"target": "Halpern_The New Poetry Anthology_1975",
+		"weight": "1"
+	},
+	{
+		"source": "Mark McMorris",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Sandra McPherson",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Sandra McPherson",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Sandra McPherson",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Sandra McPherson",
+		"target": "Halpern_The New Poetry Anthology_1975",
+		"weight": "1"
+	},
+	{
+		"source": "Sandra McPherson",
+		"target": "McClatchy_Contemporary American Poetry_1990",
+		"weight": "1"
+	},
+	{
+		"source": "Sandra McPherson",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Joyelle McSweeney",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Peter Meinke",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "David Meltzer",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "William Meredith",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "William Meredith",
+		"target": "Hall_New Poets of England and America_1957",
+		"weight": "1"
+	},
+	{
+		"source": "William Meredith",
+		"target": "McClatchy_Contemporary American Poetry_1990",
+		"weight": "1"
+	},
+	{
+		"source": "James Merrill",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "James Merrill",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "James Merrill",
+		"target": "Hall_New Poets of England and America_1957",
+		"weight": "1"
+	},
+	{
+		"source": "James Merrill",
+		"target": "McClatchy_Contemporary American Poetry_1990",
+		"weight": "1"
+	},
+	{
+		"source": "James Merrill",
+		"target": "Vendler_Contemporary American Poetry_1985",
+		"weight": "1"
+	},
+	{
+		"source": "W. S. Merwin",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "W. S. Merwin",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "W. S. Merwin",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "W. S. Merwin",
+		"target": "Hall_New Poets of England and America_1957",
+		"weight": "1"
+	},
+	{
+		"source": "W. S. Merwin",
+		"target": "McClatchy_Contemporary American Poetry_1990",
+		"weight": "1"
+	},
+	{
+		"source": "W. S. Merwin",
+		"target": "Vendler_Contemporary American Poetry_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Sharon Mesmer",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Douglas Messerli",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Robert Mezey",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Robert Mezey",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Robert Mezey",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Robert Mezey",
+		"target": "Hall_New Poets of England and America_1957",
+		"weight": "1"
+	},
+	{
+		"source": "Robert Mezey",
+		"target": "Halpern_The New Poetry Anthology_1975",
+		"weight": "1"
+	},
+	{
+		"source": "Josephine Miles",
+		"target": "Elliott_Fifteen Modern American Poets_1956",
+		"weight": "1"
+	},
+	{
+		"source": "Edna St. Vincent Millay",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Jane Miller",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Jane Miller",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Vassar Miller",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Vassar Miller",
+		"target": "Finch_A Formal Feeling Comes_1994",
+		"weight": "1"
+	},
+	{
+		"source": "Vassar Miller",
+		"target": "Hall_New Poets of England and America_1957",
+		"weight": "1"
+	},
+	{
+		"source": "Carol Mirakove",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Gary Miranda",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Judith Moffett",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "K. Silem Mohammad",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "N. Scott Momaday",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "N. Scott Momaday",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Franz Mon",
+		"target": "UbuWeb",
+		"weight": "1"
+	},
+	{
+		"source": "Paul Monette",
+		"target": "Halpern_The New Poetry Anthology_1975",
+		"weight": "1"
+	},
+	{
+		"source": "Leslie Monsour",
+		"target": "Finch_A Formal Feeling Comes_1994",
+		"weight": "1"
+	},
+	{
+		"source": "Honor Moore",
+		"target": "Finch_A Formal Feeling Comes_1994",
+		"weight": "1"
+	},
+	{
+		"source": "Richard Moore",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Cherríe Moraga",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Robert Morgan",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Robert Morgan",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Laura Moriarty",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Hilda Morley",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Tracie Morris",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Tracie Morris",
+		"target": "UbuWeb",
+		"weight": "1"
+	},
+	{
+		"source": "Tracie Morris",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Rusty Morrison",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Howard Moss",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Howard Moss",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Howard Moss",
+		"target": "Hall_New Poets of England and America_1957",
+		"weight": "1"
+	},
+	{
+		"source": "Howard Moss",
+		"target": "McClatchy_Contemporary American Poetry_1990",
+		"weight": "1"
+	},
+	{
+		"source": "Stanley Moss",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Fred Moten",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Fred Moten",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Erin Mouré",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Jennifer Moxley",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Lisel Mueller",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Paul Muldoon",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Harryette Mullen",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Laura Mullen",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Laura Mullen",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "G. E. Murray",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Les Murray",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Carol Muske-Dukes",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Carol Muske-Dukes",
+		"target": "Halpern_The New Poetry Anthology_1975",
+		"weight": "1"
+	},
+	{
+		"source": "Jack Myers",
+		"target": "Halpern_The New Poetry Anthology_1975",
+		"weight": "1"
+	},
+	{
+		"source": "Eileen Myles",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Maurizio Nannucci",
+		"target": "UbuWeb",
+		"weight": "1"
+	},
+	{
+		"source": "Melanie Neilson",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Melanie Neilson",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Maggie Nelson",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Marilyn Nelson",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Marilyn Nelson",
+		"target": "Jarman_Rebel Angels_1996",
+		"weight": "1"
+	},
+	{
+		"source": "Howard Nemerov",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Howard Nemerov",
+		"target": "Elliott_Fifteen Modern American Poets_1956",
+		"weight": "1"
+	},
+	{
+		"source": "Howard Nemerov",
+		"target": "Hall_New Poets of England and America_1957",
+		"weight": "1"
+	},
+	{
+		"source": "Howard Nemerov",
+		"target": "McClatchy_Contemporary American Poetry_1990",
+		"weight": "1"
+	},
+	{
+		"source": "Howard Nemerov",
+		"target": "Vendler_Contemporary American Poetry_1985",
+		"weight": "1"
+	},
+	{
+		"source": "bpNichol (Barrie Phillip Nichol)",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "bpNichol (Barrie Phillip Nichol)",
+		"target": "UbuWeb",
+		"weight": "1"
+	},
+	{
+		"source": "Lorine Niedecker",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Seiichi Niikuni",
+		"target": "UbuWeb",
+		"weight": "1"
+	},
+	{
+		"source": "John Frederick Nims",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "John Frederick Nims",
+		"target": "Ciardi_Mid-Century American Poets_1950",
+		"weight": "1"
+	},
+	{
+		"source": "John Frederick Nims",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Suzanne Noguere",
+		"target": "Finch_A Formal Feeling Comes_1994",
+		"weight": "1"
+	},
+	{
+		"source": "Eiríkur Örn Norðdahl",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Eiríkur Örn Norðdahl",
+		"target": "UbuWeb",
+		"weight": "1"
+	},
+	{
+		"source": "Charles North",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Alice Notley",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Alice Notley",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Ladislav Novák",
+		"target": "UbuWeb",
+		"weight": "1"
+	},
+	{
+		"source": "Mark Nowak",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Naomi Shihab Nye",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Naomi Shihab Nye",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Naomi Shihab Nye",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Frank O'Hara",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Frank O'Hara",
+		"target": "McClatchy_Contemporary American Poetry_1990",
+		"weight": "1"
+	},
+	{
+		"source": "Frank O'Hara",
+		"target": "Vendler_Contemporary American Poetry_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Sharon Olds",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Sharon Olds",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Sharon Olds",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Carole Oles",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Mary Oliver",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Redell Olsen",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Charles Olson",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Charles Olson",
+		"target": "McClatchy_Contemporary American Poetry_1990",
+		"weight": "1"
+	},
+	{
+		"source": "Yoko Ono",
+		"target": "UbuWeb",
+		"weight": "1"
+	},
+	{
+		"source": "George Oppen",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Steve Orlen",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Steve Orlen",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Steve Orlen",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Gregory Orr",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Gregory Orr",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Gregory Orr",
+		"target": "Halpern_The New Poetry Anthology_1975",
+		"weight": "1"
+	},
+	{
+		"source": "Gregory Orr",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Simon J. Ortiz",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Simon J. Ortiz",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Maggie O'Sullivan",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Maureen Owen",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Rochelle Owens",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Robert Pack",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Robert Pack",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Robert Pack",
+		"target": "Hall_New Poets of England and America_1957",
+		"weight": "1"
+	},
+	{
+		"source": "Ron Padgett",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Nam June Paik",
+		"target": "UbuWeb",
+		"weight": "1"
+	},
+	{
+		"source": "Grace Paley",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Michael Palmer",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Michael Palmer",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Michael Palmer",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Greg Pape",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Greg Pape",
+		"target": "Halpern_The New Poetry Anthology_1975",
+		"weight": "1"
+	},
+	{
+		"source": "Greg Pape",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Jay Parini",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Elsie Paschen",
+		"target": "Finch_A Formal Feeling Comes_1994",
+		"weight": "1"
+	},
+	{
+		"source": "Linda Pastan",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Linda Pastan",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Kenneth Patchen",
+		"target": "UbuWeb",
+		"weight": "1"
+	},
+	{
+		"source": "Julie Patton",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Julie Patton",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Molly Peacock",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Molly Peacock",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Molly Peacock",
+		"target": "Finch_A Formal Feeling Comes_1994",
+		"weight": "1"
+	},
+	{
+		"source": "Molly Peacock",
+		"target": "Jarman_Rebel Angels_1996",
+		"weight": "1"
+	},
+	{
+		"source": "Molly Peacock",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "John Peck",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "John Peck",
+		"target": "Halpern_The New Poetry Anthology_1975",
+		"weight": "1"
+	},
+	{
+		"source": "Georges Perec",
+		"target": "UbuWeb",
+		"weight": "1"
+	},
+	{
+		"source": "Bob Perelman",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Bob Perelman",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Craig Santos Perez",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Craig Santos Perez",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "John Perreault",
+		"target": "UbuWeb",
+		"weight": "1"
+	},
+	{
+		"source": "Michael Pettit",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "M. Nourbese Philip",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Marge Piercy",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Helen Pinkerton",
+		"target": "Finch_A Formal Feeling Comes_1994",
+		"weight": "1"
+	},
+	{
+		"source": "Robert Pinsky",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Robert Pinsky",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Robert Pinsky",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Robert Pinsky",
+		"target": "McClatchy_Contemporary American Poetry_1990",
+		"weight": "1"
+	},
+	{
+		"source": "Robert Pinsky",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Robert Pinsky",
+		"target": "Vendler_Contemporary American Poetry_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Nick Piombino",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Vanessa Place",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Vanessa Place",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Sylvia Plath",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Sylvia Plath",
+		"target": "McClatchy_Contemporary American Poetry_1990",
+		"weight": "1"
+	},
+	{
+		"source": "Sylvia Plath",
+		"target": "Vendler_Contemporary American Poetry_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Stanley Plumly",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Stanley Plumly",
+		"target": "Halpern_The New Poetry Anthology_1975",
+		"weight": "1"
+	},
+	{
+		"source": "Hyam Plutzik",
+		"target": "Elliott_Fifteen Modern American Poets_1956",
+		"weight": "1"
+	},
+	{
+		"source": "Katha Pollitt",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Katha Pollitt",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Katha Pollitt",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Bern Porter",
+		"target": "UbuWeb",
+		"weight": "1"
+	},
+	{
+		"source": "Ezra Pound",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Ezra Pound",
+		"target": "UbuWeb",
+		"weight": "1"
+	},
+	{
+		"source": "D. A. Powell",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Larry Price",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Wyatt Prunty",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Wyatt Prunty",
+		"target": "Jarman_Rebel Angels_1996",
+		"weight": "1"
+	},
+	{
+		"source": "Raymond Queneau",
+		"target": "UbuWeb",
+		"weight": "1"
+	},
+	{
+		"source": "Lawrence Raab",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Lawrence Raab",
+		"target": "Halpern_The New Poetry Anthology_1975",
+		"weight": "1"
+	},
+	{
+		"source": "Thomas Rabbitt",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Carl Rakosi",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "A. K. Ramanujan",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Bin Ramke",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Dudley Randall",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Paula Rankin",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Claudia Rankine",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Claudia Rankine",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Stephen Ratcliffe",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Tom Raworth",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "David Ray",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "David Ray",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Srikanth Reddy",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Ishmael Reed",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Ishmael Reed",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Alastair Reid",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Alastair Reid",
+		"target": "Hall_New Poets of England and America_1957",
+		"weight": "1"
+	},
+	{
+		"source": "Ariana Reines",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Ariana Reines",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "James Reiss",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "James Reiss",
+		"target": "Halpern_The New Poetry Anthology_1975",
+		"weight": "1"
+	},
+	{
+		"source": "Naomi Replansky",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Joan Retallack",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Donald Revell",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Donald Revell",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Charles Reznikoff",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Adrienne Rich",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Adrienne Rich",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Adrienne Rich",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Adrienne Rich",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Adrienne Rich",
+		"target": "Hall_New Poets of England and America_1957",
+		"weight": "1"
+	},
+	{
+		"source": "Adrienne Rich",
+		"target": "McClatchy_Contemporary American Poetry_1990",
+		"weight": "1"
+	},
+	{
+		"source": "Adrienne Rich",
+		"target": "Vendler_Contemporary American Poetry_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Deborah Richards",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "John Ridland",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Alberto Álvaro Ríos",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Alberto Álvaro Ríos",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Alberto Álvaro Ríos",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Ed Roberson",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Lisa Robertson",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Elizabeth Robinson",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Kit Robinson",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Stephen Rodefer",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Theodore Roethke",
+		"target": "Ciardi_Mid-Century American Poets_1950",
+		"weight": "1"
+	},
+	{
+		"source": "Theodore Roethke",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Theodore Roethke",
+		"target": "Elliott_Fifteen Modern American Poets_1956",
+		"weight": "1"
+	},
+	{
+		"source": "Theodore Roethke",
+		"target": "McClatchy_Contemporary American Poetry_1990",
+		"weight": "1"
+	},
+	{
+		"source": "Theodore Roethke",
+		"target": "Vendler_Contemporary American Poetry_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Pattiann Rogers",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Pattiann Rogers",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Matthew Rohrer",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "William Pitt Root",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "William Pitt Root",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "William Pitt Root",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Raymond Roseliep",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Kenneth Rosen",
+		"target": "Halpern_The New Poetry Anthology_1975",
+		"weight": "1"
+	},
+	{
+		"source": "Michael J. Rosen",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Kim Rosenfield",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Dieter Roth",
+		"target": "UbuWeb",
+		"weight": "1"
+	},
+	{
+		"source": "Jerome Rothenberg",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Jerome Rothenberg",
+		"target": "UbuWeb",
+		"weight": "1"
+	},
+	{
+		"source": "Jerome Rothenberg",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Gibbons Ruark",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Gibbons Ruark",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Mary Ruefle",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Mary Ruefle",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Gerhard Rühm",
+		"target": "UbuWeb",
+		"weight": "1"
+	},
+	{
+		"source": "Muriel Rukeyser",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Muriel Rukeyser",
+		"target": "Ciardi_Mid-Century American Poets_1950",
+		"weight": "1"
+	},
+	{
+		"source": "Muriel Rukeyser",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Muriel Rukeyser",
+		"target": "Elliott_Fifteen Modern American Poets_1956",
+		"weight": "1"
+	},
+	{
+		"source": "Michael Ryan",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Michael Ryan",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Michael Ryan",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Michael Ryan",
+		"target": "Halpern_The New Poetry Anthology_1975",
+		"weight": "1"
+	},
+	{
+		"source": "Michael Ryan",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Ira Sadoff",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Ira Sadoff",
+		"target": "Halpern_The New Poetry Anthology_1975",
+		"weight": "1"
+	},
+	{
+		"source": "Mary Jo Salter",
+		"target": "Finch_A Formal Feeling Comes_1994",
+		"weight": "1"
+	},
+	{
+		"source": "Mary Jo Salter",
+		"target": "Jarman_Rebel Angels_1996",
+		"weight": "1"
+	},
+	{
+		"source": "Lisa Samuels",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Sonia Sanchez",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Sonia Sanchez",
+		"target": "Finch_A Formal Feeling Comes_1994",
+		"weight": "1"
+	},
+	{
+		"source": "Kaia Sand",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Sherod Santos",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Sherod Santos",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Sherod Santos",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Aram Saroyan",
+		"target": "UbuWeb",
+		"weight": "1"
+	},
+	{
+		"source": "May Sarton",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "May Sarton",
+		"target": "Finch_A Formal Feeling Comes_1994",
+		"weight": "1"
+	},
+	{
+		"source": "Leslie Scalapino",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Leslie Scalapino",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Susan Fromberg Schaeffer",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Roy Scheele",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "James Schevill",
+		"target": "Elliott_Fifteen Modern American Poets_1956",
+		"weight": "1"
+	},
+	{
+		"source": "Dennis Schmitz",
+		"target": "Halpern_The New Poetry Anthology_1975",
+		"weight": "1"
+	},
+	{
+		"source": "Gjertrud Schnackenberg",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Gjertrud Schnackenberg",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Gjertrud Schnackenberg",
+		"target": "McClatchy_Contemporary American Poetry_1990",
+		"weight": "1"
+	},
+	{
+		"source": "Philip Schultz",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Philip Schultz",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Susan M. Schultz",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "James Schuyler",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "James Schuyler",
+		"target": "McClatchy_Contemporary American Poetry_1990",
+		"weight": "1"
+	},
+	{
+		"source": "Delmore Schwartz",
+		"target": "Ciardi_Mid-Century American Poets_1950",
+		"weight": "1"
+	},
+	{
+		"source": "Delmore Schwartz",
+		"target": "Elliott_Fifteen Modern American Poets_1956",
+		"weight": "1"
+	},
+	{
+		"source": "Gail Scott",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Winfield Townley Scott",
+		"target": "Ciardi_Mid-Century American Poets_1950",
+		"weight": "1"
+	},
+	{
+		"source": "Winfield Townley Scott",
+		"target": "Elliott_Fifteen Modern American Poets_1956",
+		"weight": "1"
+	},
+	{
+		"source": "Maureen Seaton",
+		"target": "Finch_A Formal Feeling Comes_1994",
+		"weight": "1"
+	},
+	{
+		"source": "Peter Seaton",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Hugh Seidman",
+		"target": "Halpern_The New Poetry Anthology_1975",
+		"weight": "1"
+	},
+	{
+		"source": "Anne Sexton",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Anne Sexton",
+		"target": "McClatchy_Contemporary American Poetry_1990",
+		"weight": "1"
+	},
+	{
+		"source": "Anne Sexton",
+		"target": "Vendler_Contemporary American Poetry_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Alan Shapiro",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Alan Shapiro",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "David Shapiro",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Karl Shapiro",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Karl Shapiro",
+		"target": "Ciardi_Mid-Century American Poets_1950",
+		"weight": "1"
+	},
+	{
+		"source": "Karl Shapiro",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Karl Shapiro",
+		"target": "Elliott_Fifteen Modern American Poets_1956",
+		"weight": "1"
+	},
+	{
+		"source": "Brenda Shaughnessy",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Brenda Shaughnessy",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "James Sherry",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Judith Johnson Sherwin",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Aaron Shurin",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Eleni Sikelianos",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Eleni Sikelianos",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Richard Siken",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Jon Silkin",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Jon Silkin",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Jon Silkin",
+		"target": "Hall_New Poets of England and America_1957",
+		"weight": "1"
+	},
+	{
+		"source": "Leslie Marmon Silko",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Ron Silliman",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Ron Silliman",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Charles Simic",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Charles Simic",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Charles Simic",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Charles Simic",
+		"target": "Halpern_The New Poetry Anthology_1975",
+		"weight": "1"
+	},
+	{
+		"source": "Charles Simic",
+		"target": "McClatchy_Contemporary American Poetry_1990",
+		"weight": "1"
+	},
+	{
+		"source": "Charles Simic",
+		"target": "Vendler_Contemporary American Poetry_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Maurya Simon",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Leslie Simon",
+		"target": "Finch_A Formal Feeling Comes_1994",
+		"weight": "1"
+	},
+	{
+		"source": "Louis Simpson",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Louis Simpson",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Louis Simpson",
+		"target": "Hall_New Poets of England and America_1957",
+		"weight": "1"
+	},
+	{
+		"source": "L. E. Sissman",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Knute Skinner",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Floyd Skloot",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "David R. Slavitt",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Patricia Smith",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Dave Smith",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Dave Smith",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Dave Smith",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Dave Smith",
+		"target": "McClatchy_Contemporary American Poetry_1990",
+		"weight": "1"
+	},
+	{
+		"source": "Dave Smith",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Dave Smith",
+		"target": "Vendler_Contemporary American Poetry_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Rod Smith",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Tracy K. Smith",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "William Jay Smith",
+		"target": "Hall_New Poets of England and America_1957",
+		"weight": "1"
+	},
+	{
+		"source": "W. D. Snodgrass",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "W. D. Snodgrass",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "W. D. Snodgrass",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "W. D. Snodgrass",
+		"target": "Hall_New Poets of England and America_1957",
+		"weight": "1"
+	},
+	{
+		"source": "W. D. Snodgrass",
+		"target": "McClatchy_Contemporary American Poetry_1990",
+		"weight": "1"
+	},
+	{
+		"source": "Gary Snyder",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Gary Snyder",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Gary Snyder",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Gary Snyder",
+		"target": "McClatchy_Contemporary American Poetry_1990",
+		"weight": "1"
+	},
+	{
+		"source": "Gary Snyder",
+		"target": "Vendler_Contemporary American Poetry_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Gustaf Sobin",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Cathy Song",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Gary Soto",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Gary Soto",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Gary Soto",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Marcia Southwick",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Marcia Southwick",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Barry Spacks",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Juliana Spahr",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Juliana Spahr",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Adriano Spatola",
+		"target": "UbuWeb",
+		"weight": "1"
+	},
+	{
+		"source": "Roberta Spear",
+		"target": "Halpern_The New Poetry Anthology_1975",
+		"weight": "1"
+	},
+	{
+		"source": "Roberta Spear",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Jack Spicer",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Jack Spicer",
+		"target": "UbuWeb",
+		"weight": "1"
+	},
+	{
+		"source": "Elizabeth Spires",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Elizabeth Spires",
+		"target": "Finch_A Formal Feeling Comes_1994",
+		"weight": "1"
+	},
+	{
+		"source": "Elizabeth Spires",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Kathleen Spivack",
+		"target": "Halpern_The New Poetry Anthology_1975",
+		"weight": "1"
+	},
+	{
+		"source": "David St. John",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "David St. John",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "David St. John",
+		"target": "Halpern_The New Poetry Anthology_1975",
+		"weight": "1"
+	},
+	{
+		"source": "David St. John",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "William Stafford",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "William Stafford",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "William Stafford",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Maura Stanton",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Maura Stanton",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Maura Stanton",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Maura Stanton",
+		"target": "Finch_A Formal Feeling Comes_1994",
+		"weight": "1"
+	},
+	{
+		"source": "Maura Stanton",
+		"target": "Halpern_The New Poetry Anthology_1975",
+		"weight": "1"
+	},
+	{
+		"source": "Maura Stanton",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "George Starbuck",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Timothy Steele",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Timothy Steele",
+		"target": "Jarman_Rebel Angels_1996",
+		"weight": "1"
+	},
+	{
+		"source": "Brian Kim Stefans",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Gertrude Stein",
+		"target": "UbuWeb",
+		"weight": "1"
+	},
+	{
+		"source": "Barry Sternlieb",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Wallace Stevens",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Wallace Stevens",
+		"target": "Vendler_Contemporary American Poetry_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Anne Stevenson",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Susan Stewart",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Terry Stokes",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Terry Stokes",
+		"target": "Halpern_The New Poetry Anthology_1975",
+		"weight": "1"
+	},
+	{
+		"source": "Leon Stokesbury",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Leon Stokesbury",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Patricia Storace",
+		"target": "Finch_A Formal Feeling Comes_1994",
+		"weight": "1"
+	},
+	{
+		"source": "Ruth Stone",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Mark Strand",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Mark Strand",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Mark Strand",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Mark Strand",
+		"target": "McClatchy_Contemporary American Poetry_1990",
+		"weight": "1"
+	},
+	{
+		"source": "Mark Strand",
+		"target": "Vendler_Contemporary American Poetry_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Dabney Stuart",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Gary Sullivan",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Barton Sutter",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Brian Swann",
+		"target": "Halpern_The New Poetry Anthology_1975",
+		"weight": "1"
+	},
+	{
+		"source": "Cole Swensen",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Cole Swensen",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "May Swenson",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "May Swenson",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "May Swenson",
+		"target": "Hall_New Poets of England and America_1957",
+		"weight": "1"
+	},
+	{
+		"source": "May Swenson",
+		"target": "McClatchy_Contemporary American Poetry_1990",
+		"weight": "1"
+	},
+	{
+		"source": "Joan Swift",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Janet Sylvester",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "John Taggart",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Nathaniel Tarn",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "James Tate",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "James Tate",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "James Tate",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "James Tate",
+		"target": "Halpern_The New Poetry Anthology_1975",
+		"weight": "1"
+	},
+	{
+		"source": "James Tate",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Henry Taylor",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Henry Taylor",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Brian Teare",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Brian Teare",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Roberto Tejada",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Fiona Templeton",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Lorenzo Thomas",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Susan Tichy",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Richard Tillinghast",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Richard Tillinghast",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Charles Tomlinson",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Edwin Torres",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Edwin Torres",
+		"target": "UbuWeb",
+		"weight": "1"
+	},
+	{
+		"source": "Rodrigo Toscano",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Rodrigo Toscano",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Tony Towle",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Wesley Trimpi",
+		"target": "Hall_New Poets of England and America_1957",
+		"weight": "1"
+	},
+	{
+		"source": "Quincy Troupe",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Lewis Turco",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Frederick Turner",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Frederick Turner",
+		"target": "Jarman_Rebel Angels_1996",
+		"weight": "1"
+	},
+	{
+		"source": "Chase Twichell",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Chase Twichell",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Tristan Tzara",
+		"target": "UbuWeb",
+		"weight": "1"
+	},
+	{
+		"source": "John Updike",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Jean Valentine",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Jean Valentine",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Mona Van Duyn",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Mona Van Duyn",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Mona Van Duyn",
+		"target": "Finch_A Formal Feeling Comes_1994",
+		"weight": "1"
+	},
+	{
+		"source": "Mona Van Duyn",
+		"target": "McClatchy_Contemporary American Poetry_1990",
+		"weight": "1"
+	},
+	{
+		"source": "Cecilia Vicuña",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Cecilia Vicuña",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Peter Viereck",
+		"target": "Ciardi_Mid-Century American Poets_1950",
+		"weight": "1"
+	},
+	{
+		"source": "Alma Luz Villanueva",
+		"target": "Finch_A Formal Feeling Comes_1994",
+		"weight": "1"
+	},
+	{
+		"source": "Paul Violi",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Ellen Bryant Voigt",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Ellen Bryant Voigt",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Ellen Bryant Voigt",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Ellen Bryant Voigt",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Arthur Vogelsang",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Paul de Vree",
+		"target": "UbuWeb",
+		"weight": "1"
+	},
+	{
+		"source": "David Wagoner",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "David Wagoner",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "David Wagoner",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "David Wagoner",
+		"target": "McClatchy_Contemporary American Poetry_1990",
+		"weight": "1"
+	},
+	{
+		"source": "Diane Wakoski",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Diane Wakoski",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Diane Wakoski",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Diane Wakoski",
+		"target": "Halpern_The New Poetry Anthology_1975",
+		"weight": "1"
+	},
+	{
+		"source": "Derek Walcott",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Anne Waldman",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Anne Waldman",
+		"target": "UbuWeb",
+		"weight": "1"
+	},
+	{
+		"source": "Anne Waldman",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Anne Waldman",
+		"target": "Finch_A Formal Feeling Comes_1994",
+		"weight": "1"
+	},
+	{
+		"source": "G. C. Waldrep",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Keith Waldrop",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Keith Waldrop",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Rosmarie Waldrop",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Rosmarie Waldrop",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Alice Walker",
+		"target": "Halpern_The New Poetry Anthology_1975",
+		"weight": "1"
+	},
+	{
+		"source": "Ronald Wallace",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Marilyn N. Waniek",
+		"target": "Finch_A Formal Feeling Comes_1994",
+		"weight": "1"
+	},
+	{
+		"source": "Marilyn N. Waniek",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Diane Ward",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Candice Warne",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Robert Penn Warren",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Robert Penn Warren",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Robert Penn Warren",
+		"target": "Elliott_Fifteen Modern American Poets_1956",
+		"weight": "1"
+	},
+	{
+		"source": "Robert Penn Warren",
+		"target": "McClatchy_Contemporary American Poetry_1990",
+		"weight": "1"
+	},
+	{
+		"source": "Rosanna Warren",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Rosanna Warren",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Lewis Warsh",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Lewis Warsh",
+		"target": "UbuWeb",
+		"weight": "1"
+	},
+	{
+		"source": "Michael Waters",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Michael Waters",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Barrett Watten",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Tom Weatherly",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Roger Weingarten",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Roger Weingarten",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Roger Weingarten",
+		"target": "Halpern_The New Poetry Anthology_1975",
+		"weight": "1"
+	},
+	{
+		"source": "Bruce Weigl",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Hannah Weiner",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Hannah Weiner",
+		"target": "UbuWeb",
+		"weight": "1"
+	},
+	{
+		"source": "James Welch",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "James Welch",
+		"target": "Halpern_The New Poetry Anthology_1975",
+		"weight": "1"
+	},
+	{
+		"source": "Lew Welch",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Marjorie Welish",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Mac Wellman",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Darren Wershler",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Kathleene West",
+		"target": "Finch_A Formal Feeling Comes_1994",
+		"weight": "1"
+	},
+	{
+		"source": "Mildred Weston",
+		"target": "Finch_A Formal Feeling Comes_1994",
+		"weight": "1"
+	},
+	{
+		"source": "Rachel Wetzsteon",
+		"target": "Jarman_Rebel Angels_1996",
+		"weight": "1"
+	},
+	{
+		"source": "Philip Whalen",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Gail White",
+		"target": "Finch_A Formal Feeling Comes_1994",
+		"weight": "1"
+	},
+	{
+		"source": "Jon Manchip White",
+		"target": "Hall_New Poets of England and America_1957",
+		"weight": "1"
+	},
+	{
+		"source": "James Whitehead",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Carolyn B. Whitlow",
+		"target": "Finch_A Formal Feeling Comes_1994",
+		"weight": "1"
+	},
+	{
+		"source": "Ruth Whitman",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Reed Whittemore",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Reed Whittemore",
+		"target": "Hall_New Poets of England and America_1957",
+		"weight": "1"
+	},
+	{
+		"source": "John Wieners",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Dara Wier",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Richard Wilbur",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Richard Wilbur",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Richard Wilbur",
+		"target": "Ciardi_Mid-Century American Poets_1950",
+		"weight": "1"
+	},
+	{
+		"source": "Richard Wilbur",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Richard Wilbur",
+		"target": "Elliott_Fifteen Modern American Poets_1956",
+		"weight": "1"
+	},
+	{
+		"source": "Richard Wilbur",
+		"target": "Hall_New Poets of England and America_1957",
+		"weight": "1"
+	},
+	{
+		"source": "Richard Wilbur",
+		"target": "McClatchy_Contemporary American Poetry_1990",
+		"weight": "1"
+	},
+	{
+		"source": "Richard Wilbur",
+		"target": "Vendler_Contemporary American Poetry_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Peter Wild",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Peter Wild",
+		"target": "Halpern_The New Poetry Anthology_1975",
+		"weight": "1"
+	},
+	{
+		"source": "Joshua Marie Wilkinson",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Nancy Willard",
+		"target": "Finch_A Formal Feeling Comes_1994",
+		"weight": "1"
+	},
+	{
+		"source": "C. K. Williams",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "C. K. Williams",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "C. K. Williams",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "C. K. Williams",
+		"target": "McClatchy_Contemporary American Poetry_1990",
+		"weight": "1"
+	},
+	{
+		"source": "Emmett Williams",
+		"target": "UbuWeb",
+		"weight": "1"
+	},
+	{
+		"source": "John A. Williams",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Jonathan Williams",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Lisa Williams",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Miller Williams",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "William Carlos Williams",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "William Carlos Williams",
+		"target": "UbuWeb",
+		"weight": "1"
+	},
+	{
+		"source": "Greg Williamson",
+		"target": "Jarman_Rebel Angels_1996",
+		"weight": "1"
+	},
+	{
+		"source": "Elizabeth Willis",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Sara Wintz",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Harold Witt",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "David Wojahn",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "David Wojahn",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "David Wojahn",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Daniel Wolff",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Nellie Wong",
+		"target": "Finch_A Formal Feeling Comes_1994",
+		"weight": "1"
+	},
+	{
+		"source": "Baron Wormser",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Baron Wormser",
+		"target": "Smith_The Morrow Anthology_1985",
+		"weight": "1"
+	},
+	{
+		"source": "C. D. Wright",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "C. D. Wright",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "C. D. Wright",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Celeste T. Wright",
+		"target": "Finch_A Formal Feeling Comes_1994",
+		"weight": "1"
+	},
+	{
+		"source": "Charles Wright",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Charles Wright",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Charles Wright",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Charles Wright",
+		"target": "Halpern_The New Poetry Anthology_1975",
+		"weight": "1"
+	},
+	{
+		"source": "Charles Wright",
+		"target": "McClatchy_Contemporary American Poetry_1990",
+		"weight": "1"
+	},
+	{
+		"source": "Charles Wright",
+		"target": "Vendler_Contemporary American Poetry_1985",
+		"weight": "1"
+	},
+	{
+		"source": "James Wright",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "James Wright",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "James Wright",
+		"target": "Hall_New Poets of England and America_1957",
+		"weight": "1"
+	},
+	{
+		"source": "James Wright",
+		"target": "McClatchy_Contemporary American Poetry_1990",
+		"weight": "1"
+	},
+	{
+		"source": "James Wright",
+		"target": "Vendler_Contemporary American Poetry_1985",
+		"weight": "1"
+	},
+	{
+		"source": "Jay Wright",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Jay Wright",
+		"target": "McClatchy_Contemporary American Poetry_1990",
+		"weight": "1"
+	},
+	{
+		"source": "Mark Wunderlich",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "John Yau",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "William Butler Yeats",
+		"target": "UbuWeb",
+		"weight": "1"
+	},
+	{
+		"source": "Monica Youn",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Al Young",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Al Young",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Al Young",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "David Young",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "David Young",
+		"target": "Halpern_The New Poetry Anthology_1975",
+		"weight": "1"
+	},
+	{
+		"source": "Dean Young",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Kevin Young",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "La Monte Young",
+		"target": "UbuWeb",
+		"weight": "1"
+	},
+	{
+		"source": "Matthew Zapruder",
+		"target": "Elliston",
+		"weight": "1"
+	},
+	{
+		"source": "Andrew Zawacki",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Andrew Zawacki",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Lisa Zeidner",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Paul Zimmer",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Paul Zimmer",
+		"target": "Dacey_Strong Measures_1986",
+		"weight": "1"
+	},
+	{
+		"source": "Rachel Zucker",
+		"target": "PennSound",
+		"weight": "1"
+	},
+	{
+		"source": "Rachel Zucker",
+		"target": "voca",
+		"weight": "1"
+	},
+	{
+		"source": "Louis Zukofsky",
+		"target": "PennSound",
+		"weight": "1"
+	}
+]

@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>D3 Visuals</title>
+    <!-- <link rel="stylesheet" type="text/css" href="../style.css"> -->
+
+    <!-- Load d3.js -->
+    <script type="text/javascript" src="d3.v4.js"></script>
+    <script src="axios.min.js"></script>
+    <link rel="stylesheet" href="nf.css" />
+    <link rel="shortcut icon" href="#" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.css"
+    />
+    <!-- <link rel="stylesheet" href="font-awesome-5-11-2.css"/> -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.5/css/bulma.css"
+    />
+    <!-- <link rel="stylesheet" href="bulma-min-0.9.4.css"/> -->
+  </head>
+  <body>
+    <!-- <h1>U.S. Poetry Network</h1> -->
+    <section class="hero is-small is-info">
+      <div class="hero-head">
+        <nav class="navbar">
+          <div class="container">
+            <div class="navbar-brand">
+              <a class="navbar-item" href="#" style="padding-top: 0px; padding-bottom: 0px; height: 30px;"> Digital Poetics </a>
+            </div>
+          </div>
+        </nav>
+      </div>
+      <div class="hero-head" style="margin-top: -30px;">
+        <div class="container has-text-centered">
+          <p class="title is-4">Digital Archaeology</p>
+          <p class="subtitle is-6">
+            Postwar U.S. Poetry in the Age of Digital Audio Archives
+          </p>
+        </div>
+      </div>
+      <div class="hero-foot">
+        <!-- <nav class="tabs is-boxed is-left"> -->
+          <!-- <ul> -->
+
+
+          <div class="container">
+              <div class="autocomplete"></div>
+              <!-- <li class="is-active"><a href="#">Figures</a></li> -->
+          </div>
+          <!-- </ul> -->
+          <!-- <ul> -->
+            <div class="dropdown" id="containerDiv">
+              <div class="dropdown-trigger">
+                <button class="button" id="group-button">
+                  <span class="icon is-medium tabs-fas" data-target="containerDiv" id="dropdown-icon">
+                    <i class="fas fa-angle-down"></i>
+                  </span>
+                  <!-- <p>Audio Archives with Anthologies</p> -->
+                  <span id="containerTitle">Anthologies and Audio Archives</span>
+                </button>
+              </div>
+
+              <div class="dropdown-menu" id="containerDropdown">
+                <div class="dropdown-content container-labels">
+                </div>
+                </div>
+                </div>
+              </div>
+            </div>
+            
+          <!-- </ul> -->
+
+      </div>
+    </section>
+  
+    <div class="container">
+      <div class="tags are-small" id="nodeSummary"></div>
+
+      
+
+     </div>
+    </div>
+
+    <!-- Network diagram -->
+
+      <div id="network" class="networkdiagram"></div>
+
+    <!-- <script src="interactions.js"></script> -->
+
+    <script>
+      // toggle burger button for nav menu
+    document.addEventListener("DOMContentLoaded", () => {
+      // Get all "navbar-burger" elements
+      const $navbarBurgers = Array.prototype.slice.call(
+        document.querySelectorAll(".tabs-fas"),
+        0
+      );
+
+      // Add a click event on each of them
+      $navbarBurgers.forEach((el) => {
+        el.addEventListener("click", () => {
+          // Get the target from the "data-target" attribute
+          const target = el.dataset.target;
+          const $target = document.getElementById(target);
+
+          // Toggle the "is-active" class on both the "navbar-burger" and the "navbar-menu"
+          el.classList.toggle("is-active");
+          $target.classList.toggle("is-active");
+        });
+      });
+    });
+    </script>
+    <script type="text/javascript" src="drawNetwork.js"></script>
+    <script src="utils.js"></script>
+    <script src="interactions.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>

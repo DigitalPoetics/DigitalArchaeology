@@ -1,0 +1,118 @@
+/* text {
+    fill: green;
+} */
+
+/* glow */
+/* https://freefrontend.com/css-glow-text-effects/ */
+
+.glow {
+  --interval: 1s;
+  display: block;
+  text-shadow: 0 0 10px var(--color1), 0 0 20px var(--color2),
+    0 0 40px var(--color3), 0 0 80px var(--color4);
+  will-change: filter, color;
+  filter: saturate(60%);
+  animation: flicker steps(100) var(--interval) 1s infinite;
+}
+
+/* .glow {
+  color: tomato;
+  --color1: orangered;
+  --color2: firebrick;
+  --color3: maroon;
+  --color4: darkred;
+} */
+
+/* .glow {
+  color: lightpink;
+  --color1: pink;
+  --color2: orangered;
+  --color3: red;
+  --color4: magenta;
+} */
+.glow {
+  color: black;
+  --color1: yellow;
+  --color2: lime;
+  --color3: green;
+  --color4: mediumblue;
+}
+
+@keyframes flicker {
+  50% {
+    color: black;
+    filter: saturate(300%) hue-rotate(20deg);
+  }
+}
+
+/* body {
+  background-color: black;
+} */
+
+/* header */
+.hero {
+  margin: 0;
+}
+
+/* node summary */
+/* .node-text {
+  cursor: pointer;
+} */
+
+/* autocomplete  */
+.autocomplete {
+  max-width: 300px;
+  /* margin-left: 10px; */
+  max-height: 41px;
+  padding-top: 5px;
+  float: left;
+}
+
+/* .nodeSummary {
+  /* margin-left: -100px; */
+/* margin-top: -20px; */
+/* } */
+#nodeSummary {
+  float: left;
+  margin-right: 10px;
+  margin-top: 5px;
+  padding-left: 10px;
+  padding-bottom: 5px;
+}
+
+.icon {
+  margin-left: -5px;
+}
+
+.dropdown-menu {
+  width: 250px;
+  overflow: auto;
+  max-height: 400px;
+  /* width: 500px; */
+  /* border: 1px solid gray; */
+}
+
+/* container dropdown  */
+/* #group-button {
+  width: 400px;
+} */
+#containerDiv {
+  float: right;
+  padding-top: 5px;
+  /* padding-right: 5px; */
+  max-height: 41px;
+  /* max-width: 450px; */
+  width: 350px;
+}
+#containerTitle {
+  cursor: default;
+  float: left;
+}
+#dropdown-icon {
+  float: left;
+}
+#containerDropdown {
+  max-width: 450px;
+  width: 350px;
+  /* padding-right: 5px; */
+}
