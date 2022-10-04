@@ -377,7 +377,7 @@ async function getData() {
         d3.select(item).style("fill", (d) => {
           //   console.log(item);
           if (d.type == "member") {
-            return "#ff8c69";
+            return "#ffbd80";
           } else {
             return "#8aded8";
           }
@@ -583,7 +583,7 @@ async function getData() {
   //Let's return blue for males and red for females
   function circleColour(d) {
     if (d.type == "member") {
-      return "#ff8c69";
+      return "#ffbd80";
     } else {
       return "#8aded8";
     }
